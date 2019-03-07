@@ -1,7 +1,7 @@
 Continuous Integration with Jenkins on Amazon EC2
 =================================================
 
-## Initial Setup
+## Initial Setup Ubuntu
 
 ### Fixing Locales in Ubuntu 13.04 on Amazon EC2
 
